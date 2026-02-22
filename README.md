@@ -38,7 +38,7 @@
   <a href="https://www.linkedin.com/in/ivaneudo-carvalho/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
   </a>
-  <a href="x.com/Centauro_dev" target="_blank">
+  <a href="https://x.com/Centauro_dev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="62" height="50" alt="twitter logo"  />
   </a>
 </div>
