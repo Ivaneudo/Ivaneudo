@@ -35,6 +35,8 @@ Valorizo arquitetura bem estruturada, aprendizado contínuo e colaboração como
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="50" />
   <img width="15" />
+  <img src="https://skillicons.dev/icons?i=spring" height="50" />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=react" height="50" />
