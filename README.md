@@ -33,7 +33,9 @@ Valorizo arquitetura bem estruturada, aprendizado contínuo e colaboração como
 ## 🛠 Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+  <img width="15" />
+  <img src="https://camo.githubusercontent.com/6dee4b046739266e8b0d3e3ed01bdf6ad7215b358145270bd69e473d37b25d39/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f717561726b75732f717561726b75732d6f726967696e616c2e737667" height="50" />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=spring" height="50" />
   <img width="15" />
@@ -41,13 +43,15 @@ Valorizo arquitetura bem estruturada, aprendizado contínuo e colaboração como
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=react" height="50" />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="50" />
-  <img width="15" />
   <img src="https://skillicons.dev/icons?i=postgres" height="50" />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=linux" height="50" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="15"/>
+  <img src="https://skillicons.dev/icons?i=obsidian" height="50" alt="obsidian"/>
 </div>
 
 ---
