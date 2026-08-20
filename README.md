@@ -12,27 +12,13 @@ Software Developer focused on building scalable and well-structured solutions.
 
 ## 🚀 About Me
 
-Software developer focused on building scalable, organized and efficient solutions.
-
-I constantly seek to grow technically and understand how different technologies can be used to solve real-world problems.
-
-I value clean architecture, continuous learning and collaboration as essential pillars of professional growth.
-
----
-
-## 🇧🇷 Sobre mim
-
-Desenvolvedor de software focado na construção de soluções escaláveis, organizadas e eficientes.
-
-Busco constantemente evoluir tecnicamente e compreender como diferentes tecnologias podem ser utilizadas para resolver problemas reais.
-
-Valorizo arquitetura bem estruturada, aprendizado contínuo e colaboração como pilares fundamentais do crescimento profissional.
+Full-Stack Developer focused on Clean Architecture and building truly efficient, scalable solutions. I'm a huge Open-Source enthusiast and spend my free time ricing and customizing my Linux environment (I use Arch, btw ).
 
 ---
 
 ## 🛠 Tech Stack
 
-<div align="left">
+<div align="center">
   <img 
     src="https://skillicons.dev/icons?i=java" 
     height="50" 
