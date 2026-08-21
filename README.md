@@ -50,6 +50,12 @@ Full-Stack Developer focused on Clean Architecture and building truly efficient,
   />
   <img width="14" />
   <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" 
+    height="50" 
+    alt="Lua"  
+  />
+  <img width="14" />
+  <img 
     src="https://skillicons.dev/icons?i=postgres" 
     height="50" 
     alt="postgreSQL"
