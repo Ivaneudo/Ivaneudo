@@ -90,9 +90,9 @@ Full-Stack Developer focused on Clean Architecture and building truly efficient,
 
 # 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ivaneudo&theme=nightowl"    alt="GitHub Stats"/>
+<div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ivaneudo&theme=nightowl" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ivaneudo&theme=nightowl"    alt="GitHub Stats"/>
 <div/>
 
 ---
