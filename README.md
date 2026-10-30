@@ -7,6 +7,11 @@
 <p align="center">
 Software Developer focused on building scalable and well-structured solutions.
 </p>
+<p align="center">
+  <a href="https://ivaneudo-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Access_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Ivaneudo's Portfolio" />
+  </a>
+</p>
 
 ---
 
