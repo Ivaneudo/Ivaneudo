@@ -24,10 +24,16 @@ Full-Stack Developer focused on Clean Architecture and building truly efficient,
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=java" 
+  <img
+    src="https://skillicons.dev/icons?i=react" 
     height="50" 
-    alt="java"
+    alt="react"
+  />
+  <img width="14" />
+  <img
+    src="https://skillicons.dev/icons?i=emotion" 
+    height="50" 
+    alt="emotion"
   />
   <img width="14" />
   <img 
@@ -40,18 +46,6 @@ Full-Stack Developer focused on Clean Architecture and building truly efficient,
     src="https://skillicons.dev/icons?i=spring" 
     height="50" 
     alt="springboot"
-  />
-  <img width="14" />
-  <img 
-    src="https://skillicons.dev/icons?i=ts" 
-    height="50" 
-    alt="typescript"
-  />
-  <img width="14" />
-  <img 
-    src="https://skillicons.dev/icons?i=react" 
-    height="50" 
-    alt="react"
   />
   <img width="14" />
   <img 
@@ -73,9 +67,9 @@ Full-Stack Developer focused on Clean Architecture and building truly efficient,
   />
   <img width="14" />
   <img 
-    src="https://skillicons.dev/icons?i=linux" 
+    src="https://skillicons.dev/icons?i=arch" 
     height="50" 
-    alt="linux"
+    alt="arch"
   />
   <img width="14" />
   <img 
