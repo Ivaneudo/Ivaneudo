@@ -49,7 +49,7 @@ Full-Stack Developer focused on Clean Architecture and building truly efficient,
   />
   <img width="14" />
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" 
+    src="https://skillicons.dev/icons?i=lua" 
     height="50" 
     alt="Lua"  
   />
