@@ -17,7 +17,7 @@ Software Developer focused on building scalable and well-structured solutions.
 
 ## 🚀 About Me
 
-Full-Stack Developer focused on Clean Architecture and building truly efficient, scalable solutions. I'm a huge Open-Source enthusiast and spend my free time ricing and customizing my Linux environment (I use Arch, btw ).
+Full-Stack Developer focused on Clean Architecture and building truly efficient, scalable solutions. I'm a huge Open-Source enthusiast and spend my free time ricing and customizing my Linux environment (I use Arch Linux).
 
 ---
 
@@ -89,10 +89,24 @@ Full-Stack Developer focused on Clean Architecture and building truly efficient,
 
 # 📊 GitHub Stats:
 
-<div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ivaneudo&theme=nightowl" alt="Top Languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ivaneudo&theme=nightowl"    alt="GitHub Stats"/>
-<div/>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="middle">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ivaneudo&theme=nightowl" 
+        height="180" 
+        alt="Top Languages"
+      />
+    </td>
+    <td align="center" valign="middle">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ivaneudo&theme=nightowl" 
+        height="180" 
+        alt="GitHub Stats"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
