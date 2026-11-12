@@ -2,14 +2,30 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=gradient"/>
 </div>
 
-<h1 align="center">Hi, I'm Ivaneudo 👋</h1>
+<h1 align="center">Hi, I'm Ivaneudo 👨‍💻</h1>
 
 <p align="center">
 Software Developer focused on building scalable and well-structured solutions.
 </p>
+
 <p align="center">
-  <a href="https://ivaneudo-dev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Access_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Ivaneudo's Portfolio" />
+  <a 
+    href="https://ivaneudo-dev.vercel.app/" 
+    target="_blank"
+  >
+    <img 
+      src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" 
+      alt="Ivaneudo's Portfolio" 
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a 
+    href="https://ivaneandome.vercel.app/" 
+    target="_blank"
+  >
+    <img 
+      src="https://img.shields.io/badge/📝_My_Blog-000000?style=for-the-badge&logo=vercel&logoColor=white" 
+      alt="Ivaneudo's Blog" />
   </a>
 </p>
 
