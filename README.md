@@ -33,7 +33,13 @@ Software Developer focused on building scalable and well-structured solutions.
 
 ## 🚀 About Me
 
-Full-Stack Developer focused on Clean Architecture and building truly efficient, scalable solutions. I'm a huge Open-Source enthusiast and spend my free time ricing and customizing my Linux environment (I use Arch Linux).
+Full-stack developer focused on Clean Architecture and building truly efficient and scalable solutions. I'm a huge open-source enthusiast and spend my free time exploring and customizing my Linux environment (I use Arch Linux).
+
+Welcome to my GitHub profile! Here you can check out the source code for some of my open projects. The links above will direct you to my portfolio and blog. You can also connect with me on social media through the links on my profile.
+
+If you're interested in any project, you are more than welcome to contribute. Just fork it, submit a PR, and wait for my review. If it's urgent, feel free to DM me on Instagram or LinkedIn, or send me an email.
+
+If you'd like to network, please don't hesitate to reach out on my social media so we can chat about tech.
 
 ---
 
