@@ -43,6 +43,44 @@ If you'd like to network, please don't hesitate to reach out on my social media 
 
 ---
 
+## 🛜 Social Media
+
+<div align="center">
+  <a 
+    href="https://instagram.com/ivaneudo.dev/" 
+    target="_blank"
+  >
+    <img
+      src="https://skillicons.dev/icons?i=instagram" 
+      height="50" 
+      alt="instagram"
+    />
+  </a>
+  <img width="14" />
+  <a 
+    href="https://www.linkedin.com/in/ivaneudo-carvalho/" 
+    target="_blank"
+  >
+    <img
+      src="https://skillicons.dev/icons?i=linkedin" 
+      height="50" 
+      alt="linkedin"
+    />
+  </a>
+  <img width="14" />
+  <a 
+    href="mailto:ivaneudo.dev@gmail.com" 
+    target="_blank"
+  >
+    <img
+      src="https://skillicons.dev/icons?i=gmail" 
+      height="50" 
+      alt="gmail"
+    />
+  </a>
+  <img width="14" />
+</div>
+
 ## 🛠 Tech Stack
 
 <div align="center">
